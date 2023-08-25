@@ -22,4 +22,5 @@ The plugin is made for `1.19.2+`
 ## Commands
 
 `/tier` - Get your own tier
+
 `/tier <player>` - Get another players tier (Can be an offline player)
