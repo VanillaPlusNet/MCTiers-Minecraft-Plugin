@@ -1,0 +1,7 @@
+name: MCTiers
+version: '${project.version}'
+main: dev.goldenedit.mctiers.MCTiers
+api-version: 1.19
+commands:
+  tier:
+    description: Fetches the Minecraft tier for a player
